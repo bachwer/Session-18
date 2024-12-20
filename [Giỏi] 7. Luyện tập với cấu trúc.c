@@ -1,4 +1,3 @@
-npm install -g snyk
 #include <stdio.h>
 #include <string.h>
 //
